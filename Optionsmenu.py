@@ -56,9 +56,6 @@ while bVal:
                                report = False
                                print("Please press Enter to return to the main menu")         
 
-
-
-
         else:
 
                 bVal = False
